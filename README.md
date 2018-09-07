@@ -1,4 +1,4 @@
-# Orbital-Mechanics
+# Mecanica-Orbital
 Software para diferentes cálculos de Mecánica Orbital
 
 Estos códigos en Python se han escrito para los cálculos de mi Trabajo de fin de Grado: Análisis y Optimización de una Misión Espacial al Satélite Europa. Como se han calculado diferentes tipos de trayectorias en el trabajo (Hohmann, no-Hohmann, asistencia gravitatoria múltiple y trayectorias low-thrust), subiré aquí diferentes funciones que pueden ser de ayuda para el cálculo de este tipo de trayectorias. Todos los códigos han sido realizados por mi. Sin embargo, todos los métodos, algoritmos y teoría relacionados se han obtenido de los libros que se mencionan en la introducción que se encuentra en el archivo de cada función.
